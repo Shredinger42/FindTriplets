@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\TestProblem\TestProblem\TestProblem\bin\Debug\TestProblem.exe.config
+C:\Users\User\Desktop\TestProblem\TestProblem\TestProblem\bin\Debug\TestProblem.exe
+C:\Users\User\Desktop\TestProblem\TestProblem\TestProblem\bin\Debug\TestProblem.pdb
+C:\Users\User\Desktop\TestProblem\TestProblem\TestProblem\obj\Debug\TestProblem.csprojAssemblyReference.cache
+C:\Users\User\Desktop\TestProblem\TestProblem\TestProblem\obj\Debug\TestProblem.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TestProblem\TestProblem\TestProblem\obj\Debug\TestProblem.exe
+C:\Users\User\Desktop\TestProblem\TestProblem\TestProblem\obj\Debug\TestProblem.pdb
